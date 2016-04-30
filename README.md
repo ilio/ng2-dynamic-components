@@ -5,7 +5,7 @@ You can generate list in 3 ways:
 
 1. Simple ngFor for simple cases:
   ```html
-  <div  *ngFor="#item of items">
+  <div *ngFor="#item of items">
     Inline template item #: {{item}}
   </div>
   ```
@@ -25,3 +25,7 @@ You can generate list in 3 ways:
     <dynamic-list-item template="#item" [item]="item"></dynamic-list-item>
   </dynamic-list> 
   ```
+  
+
+(dynamic-list component)[https://github.com/ilio/ng2-dynamic-components/blob/master/src/app/dynamic-list/dynamic-list.component.ts]
+(dynamic-list-item component)[https://github.com/ilio/ng2-dynamic-components/blob/master/src/app/dynamic-list/dynamic-list-item-template.component.ts]
