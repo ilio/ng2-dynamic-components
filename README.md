@@ -27,5 +27,6 @@ You can generate list in 3 ways:
   ```
   
 
-(dynamic-list component)[https://github.com/ilio/ng2-dynamic-components/blob/master/src/app/dynamic-list/dynamic-list.component.ts]
-(dynamic-list-item component)[https://github.com/ilio/ng2-dynamic-components/blob/master/src/app/dynamic-list/dynamic-list-item-template.component.ts]
+[dynamic-list component src](https://github.com/ilio/ng2-dynamic-components/blob/master/src/app/dynamic-list/dynamic-list.component.ts)
+
+[dynamic-list-item component src](https://github.com/ilio/ng2-dynamic-components/blob/master/src/app/dynamic-list/dynamic-list-item-template.component.ts)
