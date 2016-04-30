@@ -31,4 +31,4 @@ You can generate list in 3 ways:
 
 [dynamic-list-item component src](https://github.com/ilio/ng2-dynamic-components/blob/master/src/app/dynamic-list/dynamic-list-item-template.component.ts)
 
-Thanks to AngularClass for great template project for [ng2+webpack](https://github.com/AngularClass/angular2-webpack-starter) 
+Thanks to AngularClass for great project template for [ng2+webpack](https://github.com/AngularClass/angular2-webpack-starter) 
