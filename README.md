@@ -10,7 +10,7 @@ You can generate list in 3 ways:
   </div>
   ```
 
-2. You can create a list component with inline template which can reuse logic:
+2. You can create a list component with inline template which can reuse list logic:
   ```html  
   <dynamic-list [items]="items">
     <div template="#item">
